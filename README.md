@@ -1,3 +1,3 @@
 # Machine_Learning_Advance
 
-This repositry contains my all projects from Udacity's Machine Learning Advance NanoDegree 
+This repositry contains my projects done during Udacity's Machine Learning Advance NanoDegree course. 
